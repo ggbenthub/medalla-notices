@@ -1,9 +1,9 @@
 {
-  "id": 9,
+  "id": 10,
   "title": "Push Notification",
   "message": "This app was is testing its push notifications.",
   "image": "https://ggbenthub.github.io/medalla-notices/received_2088747141758847.jpeg",
   "facebook": "https://www.facebook.com/share/19hgMWGywA/",
-  "link": "",
+  "link": "https://www.facebook.com/share/19hgMWGywA/",
   "expires": "2026-12-31T23:59:00+08:00"
 }
